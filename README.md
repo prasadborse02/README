@@ -7,7 +7,10 @@
 ---
 
 ### 🛠 Tech Stack
-![Tech Stack](https://skillicons.dev/icons?i=js,kotlin,python,docker,git,linux,gcp,bigquery,redshift,redis,kafka)
+
+I can do much more this is just what I have work around trust me !!!
+
+![Tech Stack](https://skillicons.dev/icons?i=js,kotlin,python,docker,git,linux,gcp,redis,kafka)
 
 ### 📦 Projects Worth Checking Out
 - 🔗 [short-url](https://github.com/prasadborse02/short-url): A tiny URL shortening web with few analytics
